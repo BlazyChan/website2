@@ -1,0 +1,13 @@
+body{
+    background-color: darkred;
+    font-family: Arial, serif;
+    font-weight: bold;
+    text-align: center;
+}
+footer{
+font-size: 20px;
+}
+.jumbotron{
+    background-color: darkgrey;
+    border: 10px solid dimgray;
+}
